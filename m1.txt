@@ -1,0 +1,8 @@
+15 columns si
+
+
+select * from sac where si = "1" AND rs="p" AND ps=""
+
+........
+:si : rs : ps = 1 tt  
+:...:....
